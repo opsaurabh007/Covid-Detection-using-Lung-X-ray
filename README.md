@@ -1,1 +1,0 @@
-# Covid-Detection-using-Lung-X-ray
